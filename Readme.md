@@ -18,7 +18,7 @@ I am a Student at [IDN Boarding School](https://idn.sch.id), Indonesia.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-3E515A?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-29B6F6.svg?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-29B6F6.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-E44C30.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![UIUX Design](https://img.shields.io/badge/Figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 #### Tools and Technologies
