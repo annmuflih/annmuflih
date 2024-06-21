@@ -2,11 +2,6 @@
 
 I am a Student at [IDN Boarding School](https://idn.sch.id), Indonesia.
 
-**My Research Interest**:
-- Gaming
-- Anime
-- Cat
-
  **I am open to**:
 
 - Any collobration work,
