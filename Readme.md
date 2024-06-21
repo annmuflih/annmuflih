@@ -14,8 +14,9 @@ I am a Student at [IDN Boarding School](https://idn.sch.id), Indonesia.
 ![Kotlin](https://img.shields.io/badge/Kotlin-3E515A?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-29B6F6.svg?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-E44C30.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-E44C30.svg?style=for-the-badge&logo=html&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-E44C30.svg?style=for-the-badge&logo=css&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E44C30.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-E44C30.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-E44C30.svg?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-E44C30.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-E44C30.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![UIUX Design](https://img.shields.io/badge/Figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
