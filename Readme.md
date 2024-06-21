@@ -14,6 +14,10 @@ I am a Student at [IDN Boarding School](https://idn.sch.id), Indonesia.
 ![Kotlin](https://img.shields.io/badge/Kotlin-3E515A?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-29B6F6.svg?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-E44C30.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-E44C30.svg?style=for-the-badge&logo=html&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-E44C30.svg?style=for-the-badge&logo=css&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-E44C30.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-E44C30.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![UIUX Design](https://img.shields.io/badge/Figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 #### Tools and Technologies
@@ -31,9 +35,7 @@ I am a Student at [IDN Boarding School](https://idn.sch.id), Indonesia.
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/anas-muflih-003275236/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/anas.muflih)
-[<img src="https://img.shields.io/badge/dribbble-%FF2D2000E.svg?&style=for-the-badge&logo=dribbble&logoColor=white&color=black" />](https://dribbble.com/ansz)
-[<img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black" />](https://www.youtube.com/channel/UCaanLk_d73XSyW5FR67HfWA)
+
 </p>
 
 <a href="http://www.github.com/anszmflhs"><img src="https://github-readme-stats.vercel.app/api?username=anszmflhs&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="anszmflhs's GitHub stats" /></a>
