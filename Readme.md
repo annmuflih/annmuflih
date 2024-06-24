@@ -1,6 +1,6 @@
 ### Hi there, I'm Anas Muflih 👋
 
-I am a Student at [IDN Boarding School](https://idn.sch.id), Indonesia.
+I am a Full Stack Developer based on Indonesia.
 
  **I am open to**:
 
