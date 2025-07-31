@@ -1,69 +1,53 @@
-<h1 align="center">Hi there, I'm Anas Muflih 👋</h1>
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Anas+Muflih;Full+Stack+Dev+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing animation" />
+</h1>
 
 <p align="center">
-  <b>Full Stack Developer from Indonesia 🇮🇩</b><br>
-  Passionate about building scalable applications and learning new technologies.
+  <img src="https://komarev.com/ghpvc/?username=annmuflih&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile views counter" />
+  <a href="https://github.com/annmuflih?tab=followers"><img src="https://img.shields.io/github/followers/annmuflih?color=58a6ff&label=FOLLOWERS&style=flat" alt="GitHub followers" /></a>
 </p>
 
 ---
 
-### 💼 Open to:
-- 🤝 Collaboration projects
-- 🎙 Free tech talk / mentoring
-- 🚀 Exciting freelance opportunities
+### � About Me
+```kotlin
+class AnasMuflih : Developer() {
+    val currentFocus = listOf(
+        "Mobile Development", 
+        "Web Development",
+        "Clean Architecture"
+    )
+    
+    val passions = listOf(
+        "Building scalable apps",
+        "Open source contributions",
+        "Mentoring new developers"
+    )
+    
+    fun sayHello() = println("Let's build something amazing together!")
+}
+⚡ Tech Arsenal
+📱 Mobile Stack
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio" alt="Mobile technologies" />
+🌐 Web Stack
+<img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,tailwind,bootstrap" alt="Web technologies" />
+🛠️ Tools & More
+<img src="https://skillicons.dev/icons?i=git,figma,vscode,github,idea" alt="Tools" />
+📊 GitHub Analytics
+<div align="center">
+https://metrics.lecoq.io/annmuflih?template=terminal&base=header%252C%2520activity%252C%2520community%252C%2520repositories%252C%2520metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%252FJakarta
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=annmuflih&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=annmuflih&theme=radical&hide_border=true" alt="GitHub streak" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annmuflih&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+https://github-readme-activity-graph.vercel.app/graph?username=annmuflih&theme=react-dark&bg_color=0D1117&hide_border=true&area=true
 
-### 🛠️ Tech Stack
+</div>
+🎯 Currently Focusing On
+Mastering Jetpack Compose
 
-#### 🚀 Languages & Frameworks
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
+Exploring Microservices Architecture
 
-#### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+Improving CI/CD Pipelines
 
-#### 💻 IDEs
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annmuflih&show_icons=true&theme=tokyonight&hide_border=true&hide=stars"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=annmuflih&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annmuflih&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 📊 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=annmuflih&theme=tokyonight&bg_color=1A1B27&color=ffffff&line=4E9F3D&point=F9F9F9&hide_border=true" />
-</p>
-
----
-
-### 📬 Connect with Me!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anas-muflih-003275236/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/annmuflih"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+📫 Let's Connect!
+<p align="center"> <a href="https://www.linkedin.com/in/anas-muflih-003275236/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> </p>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random developer quote" /> </p><p align="center"> <i>"First, solve the problem. Then, write the code." - John Johnson</i> </p> ```
