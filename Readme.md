@@ -1,48 +1,69 @@
-### Hi there, I'm Anas Muflih 👋
+<h1 align="center">Hi there, I'm Anas Muflih 👋</h1>
 
-I am a Full Stack Developer based on Indonesia.
-
- **I am open to**:
-
-- Any collobration work,
-- Free talk
-
-## Skills:
-
-#### Languages:
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3E515A?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-29B6F6.svg?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-E44C30.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E44C30.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-E44C30.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-E44C30.svg?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-E44C30.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-E44C30.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![UIUX Design](https://img.shields.io/badge/Figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-
-#### Tools and Technologies
-
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-#### IDEs
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20Studio-000000.svg?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
-
-## Connect with me:
-
-<p align = "center">
-
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/anas-muflih-003275236/)
-
+<p align="center">
+  <b>Full Stack Developer from Indonesia 🇮🇩</b><br>
+  Passionate about building scalable applications and learning new technologies.
 </p>
 
-<a href="http://www.github.com/annmuflih"><img src="https://github-readme-stats.vercel.app/api?username=annmuflih&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="annmuflih's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/annmuflih"><img src="https://github-readme-streak-stats.herokuapp.com/?user=annmuflih&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 💼 Open to:
+- 🤝 Collaboration projects
+- 🎙 Free tech talk / mentoring
+- 🚀 Exciting freelance opportunities
 
-<a href="http://www.github.com/annmuflih"><img src="https://activity-graph.herokuapp.com/graph?username=annmuflih&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
-<a href="https://github.com/annmuflih" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annmuflih&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🛠️ Tech Stack
+
+#### 🚀 Languages & Frameworks
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
+
+#### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+#### 💻 IDEs
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annmuflih&show_icons=true&theme=tokyonight&hide_border=true&hide=stars"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=annmuflih&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annmuflih&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 📊 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=annmuflih&theme=tokyonight&bg_color=1A1B27&color=ffffff&line=4E9F3D&point=F9F9F9&hide_border=true" />
+</p>
+
+---
+
+### 📬 Connect with Me!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anas-muflih-003275236/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/annmuflih"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
